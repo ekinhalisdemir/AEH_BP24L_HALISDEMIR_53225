@@ -1,5 +1,5 @@
 public static void main() {
-    printCharacter('X', 9, 7);
+    printCharacter('X', 4, 2);
 }
 
 public static void printCharacter(char character, int numberInRow, int numberOfLines) {
